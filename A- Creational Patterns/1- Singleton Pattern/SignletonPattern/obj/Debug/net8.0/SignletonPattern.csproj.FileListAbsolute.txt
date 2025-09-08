@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\bin\Debug\net8.0\SignletonPattern.exe
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\bin\Debug\net8.0\SignletonPattern.deps.json
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\bin\Debug\net8.0\SignletonPattern.runtimeconfig.json
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\bin\Debug\net8.0\SignletonPattern.dll
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\bin\Debug\net8.0\SignletonPattern.pdb
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.AssemblyInfo.cs
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.dll
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\refint\SignletonPattern.dll
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.pdb
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.genruntimeconfig.cache
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\ref\SignletonPattern.dll
