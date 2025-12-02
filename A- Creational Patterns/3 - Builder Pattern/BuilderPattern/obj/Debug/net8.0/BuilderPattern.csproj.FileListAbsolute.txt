@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.exe
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.deps.json
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.dll
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.pdb
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.sourcelink.json
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\3 - Builder Pattern\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll

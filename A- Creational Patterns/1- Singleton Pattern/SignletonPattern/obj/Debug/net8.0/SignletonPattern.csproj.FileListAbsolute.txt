@@ -12,3 +12,4 @@ C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton
 C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.pdb
 C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.genruntimeconfig.cache
 C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\ref\SignletonPattern.dll
+C:\Users\rishi\source\repos\LearningPatterns\A- Creational Patterns\1- Singleton Pattern\SignletonPattern\obj\Debug\net8.0\SignletonPattern.sourcelink.json

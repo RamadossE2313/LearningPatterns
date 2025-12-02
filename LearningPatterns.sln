@@ -1,13 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35728.132 d17.12
+VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A - Creational Patterns", "A - Creational Patterns", "{73E10172-EFF6-463F-80A6-45A651332A16}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Singleton pattern", "1 - Singleton pattern", "{BE864E6D-44C7-4769-852D-41E72C5C1480}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignletonPattern", "A- Creational Patterns\1- Singleton Pattern\SignletonPattern\SignletonPattern.csproj", "{3003A4B6-8841-4992-852E-8377FF05E8C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Factory Pattern (Factor Method pattern)", "2 - Factory Pattern (Factor Method pattern)", "{AD5AE737-4E87-472C-A112-90013E9E5559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "A- Creational Patterns\2 - Factory Pattern (Factor Method pattern)\FactoryPattern\FactoryPattern.csproj", "{DC3CA53C-3B87-4FCF-8D4D-CA6E8BC85ECE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Builder Pattern", "3 - Builder Pattern", "{A2EF981B-86AF-4ED1-A483-44516C6D3E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "A- Creational Patterns\3 - Builder Pattern\BuilderPattern\BuilderPattern.csproj", "{FCDEE03E-0C70-4C93-BC7A-165B2100A845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +27,14 @@ Global
 		{3003A4B6-8841-4992-852E-8377FF05E8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3003A4B6-8841-4992-852E-8377FF05E8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3003A4B6-8841-4992-852E-8377FF05E8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3CA53C-3B87-4FCF-8D4D-CA6E8BC85ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3CA53C-3B87-4FCF-8D4D-CA6E8BC85ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3CA53C-3B87-4FCF-8D4D-CA6E8BC85ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3CA53C-3B87-4FCF-8D4D-CA6E8BC85ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDEE03E-0C70-4C93-BC7A-165B2100A845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDEE03E-0C70-4C93-BC7A-165B2100A845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDEE03E-0C70-4C93-BC7A-165B2100A845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDEE03E-0C70-4C93-BC7A-165B2100A845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,5 +42,9 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BE864E6D-44C7-4769-852D-41E72C5C1480} = {73E10172-EFF6-463F-80A6-45A651332A16}
 		{3003A4B6-8841-4992-852E-8377FF05E8C8} = {BE864E6D-44C7-4769-852D-41E72C5C1480}
+		{AD5AE737-4E87-472C-A112-90013E9E5559} = {73E10172-EFF6-463F-80A6-45A651332A16}
+		{DC3CA53C-3B87-4FCF-8D4D-CA6E8BC85ECE} = {AD5AE737-4E87-472C-A112-90013E9E5559}
+		{A2EF981B-86AF-4ED1-A483-44516C6D3E4A} = {73E10172-EFF6-463F-80A6-45A651332A16}
+		{FCDEE03E-0C70-4C93-BC7A-165B2100A845} = {A2EF981B-86AF-4ED1-A483-44516C6D3E4A}
 	EndGlobalSection
 EndGlobal
